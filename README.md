@@ -8,4 +8,5 @@
   <li>Typescript</li>
   <li>Nest JS</li>
   <li>TypeORM</li>
+  <li>Handlebars</li>
 </ul>
